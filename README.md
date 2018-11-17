@@ -14,7 +14,5 @@ Webpack 4 simple boilerplate for React 16 with Typescript 3 & SASS
 # Instructions
 
 - Clone this repo
-- `
-npm install
-npm start
-`
+- `npm install`
+- `npm start`
